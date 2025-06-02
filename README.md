@@ -1,5 +1,7 @@
 # ✈️ Airline Loyalty Program Analysis
 
+![Airline Loyalty Banner](images/00_banner.png)
+
 ---
 
 ## 🇬🇧 English
